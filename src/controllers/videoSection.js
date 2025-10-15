@@ -1,7 +1,7 @@
 const Problem = require("../models/Problem");
 const cloudinary = require("cloudinary").v2;
 const SolutionVideo = require("../models/solutionVideo");
-require("dotenv").config();
+// require("dotenv").config();
 
 // Me 
 const user = require('../models/user')

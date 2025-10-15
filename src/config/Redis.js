@@ -1,5 +1,5 @@
 const redis = require("redis");
-require('dotenv').config()
+// require('dotenv').config()
 
 
 const redisClient = redis.createClient({
