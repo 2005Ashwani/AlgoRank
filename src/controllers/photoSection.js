@@ -1,6 +1,6 @@
 // utils/cloudinary.js
 import { v2 as cloudinary } from "cloudinary";
-// import dotenv from "dotenv";
+import dotenv from "dotenv";
 import User from "../models/user.js";
 
 dotenv.config();
